@@ -1,12 +1,11 @@
 baseURL = "http://www.example.com"
-title = "johndoe"
+title = "hardik jindal"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 6
 enableEmoji = true
-# Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+
 
 [markup.highlight]
 noClasses = false
@@ -17,7 +16,7 @@ author = "Hardik Jindal"
 description = "Hardik Jindal's personal website"
 keywords = "blog,developer,personal"
 info = ["Undergraduate Student", "IIT Kanpur"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/hardik.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "December 17, 2023"
 since = 2022
