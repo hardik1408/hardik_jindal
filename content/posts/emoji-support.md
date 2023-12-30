@@ -1,7 +1,7 @@
 +++
-authors = ["Lone Coder"]
-title = "Emoji Support"
-date = "2023-07-07"
+
+title = "Emj Support"
+
 description = "Guide to emoji usage in Hugo"
 tags = [
     "hugo",
