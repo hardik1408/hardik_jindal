@@ -163,12 +163,12 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 2
-url = "posts/"
+url = "project/"
 
 [[languages.en.menu.main]]
 name = "Achievements"
 weight = 3
-url = "projects/"
+url = "achievements/"
 
 [[languages.en.menu.main]]
 name = "Contact me"

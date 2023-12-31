@@ -1,6 +1,6 @@
 +++
 title = "Achievements"
-slug = "projects"
+slug = "achievements"
 +++
 
 
