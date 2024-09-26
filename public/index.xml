@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardik Jindal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hardik Jindal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am currectly a Third- Year undergraduate student in the Department of Electrical Engineering at the Indian Institute of Technology, Kanpur.&#xA;Beyond my academic pursuits, I&amp;rsquo;m an ardent enthusiast for knowledge, always eager to broaden my horizons and engage in discussions about various ideas. Whether it&amp;rsquo;s brainstorming on the next groundbreaking project or simply debating the future of technology, I&amp;rsquo;m open and enthusiastic about exploring diverse perspectives.</description>
+    </item>
+    <item>
+      <title>Achievements</title>
+      <link>http://localhost:1313/achievements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/achievements/</guid>
+      <description> Secured All India Rank 889 in JEE Advanced 2022 among the 2.5 Lakh shortlisted candidates. Secured All India Rank 2257 in JEE Mains 2022 amongst over 1.5 Million candidates. Secured All India Rank 894 in KVPY SX 2022 amongst over 1.5 Lakh candidates. Secured 1st Position in SNT Hackathon organised by SNT Council,IITK Qualified for 1/8 finals in IROS Simulation Humanoid Robot Wrestling Competition organized by IEEE. </description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Personal Email-Id : hardikdlf@gmail.com&#xA;Institute Email-Id : hardikj22@iitk.ac.in</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/</guid>
+      <description>1. IEEE IROS Humanoid Robot Wrestling Simulation Competition 2023 | Team Humanoid,IITK Link to heading Qualified for 1/8 finals in a competition aimed towards simulating a calibrated model of the NAO robot and implementing a strategy for wrestling matches against other international teams organised during the IROS 2023 conference. Integrated YOLOv5 model for recognizing the position and depth of the opponent robot. Used image processing methods for wrestling ring edge detection.</description>
+    </item>
+  </channel>
+</rss>

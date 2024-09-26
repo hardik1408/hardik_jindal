@@ -137,18 +137,19 @@ url = "https://github.com/hardik1408/"
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://x.com/Hads1408"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 5
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/hardik-jindal-1a2176250/"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa -2x fa-instagram"
 weight = 5
+url = "https://www.instagram.com/hardikj_1408/"
 
 
 
@@ -174,5 +175,10 @@ url = "achievements/"
 name = "Contact me"
 weight = 5
 url = "contact/"
+
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 6
+url = "static/images/Hardik_CV.pdf"
 
 
