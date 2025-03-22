@@ -6,4 +6,4 @@ slug = "contact"
 
 Personal Email-Id : hardikdlf@gmail.com  
 
-Institute Email-Id : hardikj22@iitk.ac.in
+Institute Email-Id : hardikj22@iitk.ac.in  /  hardikj22@cse.iitk.ac.in
